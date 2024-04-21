@@ -1,0 +1,4 @@
+function entropy:attic_stairs/load
+function entropy:attic_smoke_room/load
+function entropy:basement_elevator/load
+function entropy:le_fishe_au_lava/load
